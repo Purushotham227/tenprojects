@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    min-height: 100vh;
+    background-color: #e5e5ed;
+    border: 10px solid black;
+    ;
+}
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+}
+img{
+    width: 300px;
+    height: 380px;
+    border-radius: 50%;
+    margin-top: 100px;
+}
+.apdhead{
+    font-size: 25px;
+    text-align: right;
+    margin-right: 0px;
+
+}
+.heading{
+    font-size: 60px;
+    text-align: left;
+    margin-top: 50px;
+}
+.para{
+    font-size: 20px;
+    margin-top: 50px;
+    line-height: 1.6;
+    letter-spacing: 1px;
+}
+.bioheading{
+    font-size: 20px;
+    margin-top: 100px;
+}
+.list{
+    font-size: 20px;
+    margin-top: 50px;
+    line-height: 1.8;
+    letter-spacing: 1px;
+
+}
+.footer{
+    font-size: 17px;
+    margin-top: 120px;
+    line-height: 1.8;
+    letter-spacing: 1px;
+    text-align: right;
+    margin-right: 0;
+
+}
